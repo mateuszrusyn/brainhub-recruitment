@@ -1,0 +1,7 @@
+.Form {
+    margin-top: 30px;
+}
+
+.Form__error {
+    color: red;
+}
